@@ -2,6 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/6eea7147-05f8-43b8-934f-89091d72ddf6/deploy-status)](https://app.netlify.com/sites/cocky-wilson-3d466e/deploys)
 
+[View App](https://cocky-wilson-3d466e.netlify.app).
+
 ## Available Scripts
 
 In the project directory, you can run:
